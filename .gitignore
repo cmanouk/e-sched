@@ -1,0 +1,6 @@
+backend/.env
+backend/node_modules
+backend/notes.txt
+backend/docker-compose.yml
+client
+public
